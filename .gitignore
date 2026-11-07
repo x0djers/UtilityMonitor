@@ -7,6 +7,7 @@ venv/
 ENV/
 env/
 .env
+uv.lock
 
 # IDE / Editors
 .idea/

@@ -1,0 +1,10 @@
+[project]
+name = "UtilityMonitor"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "psycopg2-binary>=2.9.13",
+    "sqlalchemy>=2.1.8",
+]
